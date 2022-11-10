@@ -2,7 +2,7 @@
 
 ## Summary
 
-This report studies the use of Convolutional Neural Networks (CNN) as a classifier to detect
+This code stems from my dissertation report. The goal was to study the use of Convolutional Neural Networks (CNN) as a classifier to detect
 concealed information (“lying”). The concept or Neural Network constitutes a state of the art tool,
 which holds interesting prospects in the field of computational psychology. As such, my project
 sought to fill in the gap in contemporary research by comparing a linear (Logistic Regression) to
